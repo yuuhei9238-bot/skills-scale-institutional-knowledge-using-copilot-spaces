@@ -46,4 +46,3 @@ How to Use These Docs
 Contributing & Feedback
 
 If you want to propose changes to these process documents, open an issue using the "Add Content to Project Management Process Docs" template located at `.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml`. Mention the document you want to update and include a summary and rationale.
-
